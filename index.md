@@ -6,13 +6,13 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="me.png">
+<img class="profile-picture" src="20181027_140217.jpg">
 
 I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on healthcare support or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, topic-focused datasets. 
 
 My past work has examined how postpartum people frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf),  how people communicate their [pain levels](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) to physicians, and how the use of word embedding models require additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
 
-I'm currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
+I'm currently a working as a Data Scientist at HT Media Ltd. Currently, I work in Shine.com team which is India's second largest recruiting platform.  I have completed my B.Tech in Electrical and Electronics Engineering from Guru Gobind Singh Indraprastha University, New Delhi. 
 
 <!-- * PhD Candidate in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  

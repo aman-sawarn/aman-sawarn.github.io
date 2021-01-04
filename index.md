@@ -31,11 +31,15 @@ layout: default
 <br>
 You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
 
+
+
+<br>
+
+<br>
+
 ## OTHER ACADEMIC EXPERIENCE
 
 * Took ML sessions for IEEE-MAIT local chapter  
-
-
 <br>
 
 <!-- ---

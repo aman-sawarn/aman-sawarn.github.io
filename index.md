@@ -24,7 +24,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 <br>
 
-**------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------**
 
 <br>
 ## INDUSTRY EXPERIENCE
@@ -142,7 +142,7 @@ English ,  Hindi
 ## PUBLICATIONS
 ---
 
-* To be updated soon- Currently under review*. 2020.
+* To be updated soon- Currently under review- 2020.
 
 
 ## OTHER ACADEMIC EXPERIENCE
@@ -150,7 +150,7 @@ English ,  Hindi
 
 * Took ML sessions for IEEE-MAIT local chapter  
 
----
+
 
 <br>
 

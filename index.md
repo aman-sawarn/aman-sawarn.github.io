@@ -24,9 +24,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 
 
----
-layout: default
----
+
 
 <br>
 You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).

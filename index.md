@@ -14,24 +14,9 @@ My past work has examined how postpartum people frame their [birth experiences](
 
 I'm currently a working as a Data Scientist at HT Media Ltd. Currently, I work in Shine.com team which is India's second largest recruiting platform.  I have completed my B.Tech in Electrical and Electronics Engineering from Guru Gobind Singh Indraprastha University, New Delhi. 
 
-<!-- * PhD Candidate in [Information Science](http://infosci.cornell.edu/), Cornell University
-* Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
-* Minor in [Computer Science](https://www.cs.cornell.edu/) -->
-
-<!-- <br> -->
-
-<!-- ## Research Interests
 
 Natural language processing, unsupervised machine learning, digital humanities, healthcare, computational social science.
 
-<br>
-
-## Education
-
-* MS in [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
-* BA in [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
-
-<br>
 
 ---
 layout: default

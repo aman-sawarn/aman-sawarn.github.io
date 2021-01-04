@@ -89,29 +89,10 @@ August 2016 - June 2020
 [Credentials](https://www.coursera.org/account/accomplishments/verify/3SV2AB4U79F3) 
 * Instructor: [Carlos Guestrin](https://www.coursera.org/instructor/guestrin)
 
-<br>
-
-You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
-
-<br>
-
-
-
-<!-- ---
-
-
-
 ### deeplearning.ai
 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
 [Credentials](https://www.coursera.org/account/accomplishments/verify/7R7MPNFAMMRE) 
 * Instructor: [Andrew Ng](https://www.coursera.org/instructor/andrewng)
-
-
-<br>
-
----
-
-
 
 ## SKILLS
 
@@ -130,6 +111,27 @@ Stanford CoreNLP, NLTK, openNLP, Seaborn, Matplotlib
 ### Human Languages
 
 English ,  Hindi
+<br>
+
+You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
+
+<br>
+
+
+
+<!-- ---
+
+
+
+
+
+<br>
+
+---
+
+
+
+
 
 <br>
 

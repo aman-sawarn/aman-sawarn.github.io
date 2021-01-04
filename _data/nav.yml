@@ -7,10 +7,5 @@
 - name: "Blog"
   link: "https://aman-sawarn.github.io/blog"
 
-#- name: "Publications"
-#  link: "https://maria-antoniak.github.io/publications"
-
-#nk: "https://maria-antoniak.github.io/cv"
-
 - name: "About"
   link: "https://aman-sawarn.github.io/"

@@ -16,17 +16,15 @@ My past work on predicting movies genres aims at solving the problem as [multi-l
 My work on Medical Report Generation using X-Ray Images is yet to be published.
 
 
-My past work has examined how postpartum people frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf),  how people communicate their [pain levels](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) to physicians, and how the use of word embedding models require additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
-
 I'm currently a working as a Data Scientist at HT Media Ltd. Currently, I work in Shine.com team which is India's second largest recruiting platform.  I have completed my B.Tech in Electrical and Electronics Engineering from Guru Gobind Singh Indraprastha University, New Delhi in June 2020. 
 
 
-Natural language processing, unsupervised machine learning, digital humanities, healthcare, computational social science.
+Natural language processing, unsupervised machine learning, digital humanities, healthcare.
 
 
 <br>
 
-* --- *
+*---*
 
 <br>
 ## INDUSTRY EXPERIENCE

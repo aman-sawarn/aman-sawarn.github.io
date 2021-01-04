@@ -10,28 +10,36 @@ You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/am
 
 <!-- ---
 
-## EDUCATION
-
-### Cornell University  
-PhD in [Information Science](https://www.infosci.cornell.edu/)  
-August 2016 - Present  
-* Advisor: David Mimno  
+## EDUCATION 
 
 <br>
 
-### University of Washington  
-MS in [Computational Linguistics](http://www.compling.uw.edu/)  
-June 2013 - December 2014  
-* Advisor: Fei Xia  
-* Thesis: *Extracting Topically Related Synonyms from Twitter*
+### Guru Gobind Singh Indraprastha University, New Delhi
+B.Tech in Electrical and Electronics Engineering
+August 2016 - June 2020
 
 <br>
 
-### University of Notre Dame  
-BA in [Program of Liberal Studies](http://pls.nd.edu/)  
-August 2007 - May 2011  
-* Advisor: Bernd Goehring
-* [Glynn Family Honors Program](https://glynnhonors.nd.edu/)
+### University of Michigan
+[Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
+[Credentials](https://www.coursera.org/account/accomplishments/verify/F3XLLRXQ2E6Y) 
+* Instructor: [Bernd Goehring](https://www.coursera.org/instructor/kevyn-ct)
+
+### University of Michigan
+[Python Data Structures](https://www.coursera.org/learn/python-data)
+[Credentials](https://www.coursera.org/account/accomplishments/verify/U5J535AWPELN) 
+* Instructor: [Charles Russell Severance](https://www.coursera.org/instructor/drchuck)
+
+### University of Washington
+[Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
+[Credentials](https://www.coursera.org/account/accomplishments/verify/3SV2AB4U79F3) 
+* Instructor: [Carlos Guestrin](https://www.coursera.org/instructor/guestrin)
+
+### deeplearning.ai
+[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+[Credentials](https://www.coursera.org/account/accomplishments/verify/7R7MPNFAMMRE) 
+* Instructor: [Andrew Ng](https://www.coursera.org/instructor/andrewng)
+
 
 <br>
 
@@ -39,57 +47,41 @@ August 2007 - May 2011
 
 ## INDUSTRY EXPERIENCE
 
-### Microsoft
-Research Intern  
-Redmond, WA  
-May - August 2018  
-* Mentor: Ranjani Ramamurthy
-*  Worked on Project EmpowerMD (production of an automated medical scribe) and focused on unsupervised extractive summarization of a small dataset of clinical dialogues.
-
-### Rakuten  
-Software Engineering Intern  
-Seattle, WA  
-May - August 2017  
-* Investigated implications of imbalance of gender labels for products in the Rakuten Catalog.
-* Developed training data and a classifier for product gender labels while restricting the classifier's use based on ethical considerations for each category of products.
-* Developed an anomaly detection system to discover mislabeled training data.
 
 ### HT Media Ltd. - Shine.com
-Data Scientist  
+#### Data Scientist  
 Gurugram, Harayana, India  
 October 2020 - Till Date 
 * Worked on a SOTA CV Parser for shine.com
 * Created a custom named entity recognition and normalization system for extracting various details from resume text.
-* Constructed a Dataset which could be used as absolute benchmark for various applications related to NER.
+* Used BERT for feature extractions followed by various LSTM, CNN architectures for finetuning models
 * Implemented the NLP sections of a tensorflow learning pipeline for the core product.
 * Implemented the NLP sections of a tensorflow prediction pipeline for the core product.
-
-<br>
-
-
----
+* Deployed CV Parser as In-House product and saved 0.01 $ per Job applies on shine.com.
 
 
 
 ### HT Media Ltd. - Shine.com
-Data Science Intern
+##### Data Science Intern
 Gurugram, Harayana, India  
 June 2020 - October 2020
 * Worked on a SOTA CV Parser for shine.com
 * Created a custom named entity recognition and normalization system for extracting various details from resume text.
 * Constructed a Dataset which could be used as absolute benchmark for various applications related to NER.
-* Implemented the NLP sections of a tensorflow learning pipeline for the core product.
-* Implemented the NLP sections of a tensorflow prediction pipeline for the core product.
+* Implemented TFIDF and Bag of Words for text vectorizations.
+* Created Ensemble Text Embeddings using GLoVE, Word2Vec and FastText for Text Embeddings. 
+* Implemented a baseline model for SOTA CV Parser to be built In-House. 
 
-<br>
 
-### Writing Center, University of Notre Dame   
-Writing Tutor  
-Notre Dame, IN  
-September 2008 - May 2011  
-* Directed 70+ discussion-based consultations per semester with individual students.
-* Led specialized workshops for grant applicants.
-* Completed one semester training course, with continued monthly training led by experts in various writing styles and disciplines (e.g. chemistry, philosophy, ESL).
+### Toffee Insurance
+##### Data Science Intern
+Gurugram, Harayana, India  
+June 2019 - August 2019
+* Worked on a Fraud Detection model on Insurance Claims. 
+* Created a model using Random Forests and XGBoost.
+* Achieved an AUC score of 0.84 from previously 0.70 in predicting frauds.
+* Cleaned Dataset discussing various domain specific details from various Product Managers.
+
 
 <br>
 

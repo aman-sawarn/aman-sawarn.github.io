@@ -23,16 +23,6 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 <br>
 
 
-
-
-
-<br>
-You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
-
-
-
-<br>
-
 ---
 layout: default
 ---
@@ -74,23 +64,15 @@ June 2019 - August 2019
 * Achieved an AUC score of 0.84 from previously 0.70 in predicting frauds.
 * Cleaned Dataset discussing various domain specific details from various Product Managers.
 
-
-<br>
-
-
-
-<!-- ---
-
-
 ## EDUCATION 
 
-<br>
+
 
 ### Guru Gobind Singh Indraprastha University, New Delhi
 B.Tech in Electrical and Electronics Engineering
 August 2016 - June 2020
 
-<br>
+
 
 ### University of Michigan
 [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
@@ -106,6 +88,17 @@ August 2016 - June 2020
 [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
 [Credentials](https://www.coursera.org/account/accomplishments/verify/3SV2AB4U79F3) 
 * Instructor: [Carlos Guestrin](https://www.coursera.org/instructor/guestrin)
+
+
+You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
+
+<br>
+
+
+
+<!-- ---
+
+
 
 ### deeplearning.ai
 [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)

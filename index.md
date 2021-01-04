@@ -18,15 +18,17 @@ I'm currently a working as a Data Scientist at HT Media Ltd. Currently, I work i
 Natural language processing, unsupervised machine learning, digital humanities, healthcare, computational social science.
 
 
----
-layout: default
----
+
 
 <br>
 
+--- ---
+
+
+<br>
 You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
 
-<br><br>
+<br>
 
 <!-- ---
 

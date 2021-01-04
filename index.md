@@ -26,15 +26,15 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 <br>
 
---- ---
+* --- *
 
 <br>
 ## INDUSTRY EXPERIENCE
-
+---
 
 ### HT Media Ltd. - Shine.com
-#### Data Scientist                                       October 2020 - Till Date 
-Gurugram, Harayana, India  
+#### Data Scientist.  :  October 2020 - Till Date 
+###### Gurugram, India  
 
 * Worked on a SOTA CV Parser for shine.com
 * Created a custom named entity recognition and normalization system for extracting various details from resume text.
@@ -46,8 +46,8 @@ Gurugram, Harayana, India
 
 
 ### HT Media Ltd. - Shine.com
-#### Data Science Intern                                       June 2020 - October 2020
-Gurugram, Harayana, India  
+#### Data Science Intern.  :   June 2020 - October 2020
+###### Gurugram, India  
 
 * Worked on a SOTA CV Parser for shine.com
 * Created a custom named entity recognition and normalization system for extracting various details from resume text.
@@ -59,8 +59,8 @@ Gurugram, Harayana, India
 
 
 ### Toffee Insurance
-#### Data Science Intern                                    June 2019 - August 2019
-Gurugram, Harayana, India  
+#### Data Science Intern.   :   June 2019 - August 2019
+###### Gurugram, India  
 
 * Worked on a Fraud Detection model on Insurance Claims. 
 * Created a model using Random Forests and XGBoost.
@@ -72,7 +72,7 @@ Gurugram, Harayana, India
 
 
 ## EDUCATION 
-
+---
 
 
 
@@ -80,7 +80,7 @@ Gurugram, Harayana, India
 B.Tech in Electrical and Electronics Engineering
 August 2016 - June 2020
 
----
+
 
 ### University of Michigan
 [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning).         [Credentials](https://www.coursera.org/account/accomplishments/verify/F3XLLRXQ2E6Y) 
@@ -111,7 +111,7 @@ August 2016 - June 2020
 
 
 ## SKILLS
-
+---
 
 
 
@@ -138,18 +138,17 @@ English ,  Hindi
 
 
 ## PUBLICATIONS
+---
 
 * To be updated soon- Currently under review*. 2020.
 
 
----
-
-
 ## OTHER ACADEMIC EXPERIENCE
+---
 
 * Took ML sessions for IEEE-MAIT local chapter  
 
---- ---
+---
 
 <br>
 

@@ -23,9 +23,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 <br>
 
 
----
-layout: default
----
+
 <br>
 ## INDUSTRY EXPERIENCE
 

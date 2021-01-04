@@ -7,7 +7,7 @@ is_contact: true
 
 1. [aman.sawarn@hindustantimes.com](mailto:aman.sawarn@hindustantimes.com)
 
-2.[sawarn69@gmail.com](mailto:sawarn69@gmail.com)
+2. [sawarn69@gmail.com](mailto:sawarn69@gmail.com)
 
 3. [LinkedIn](https://www.linkedin.com/in/aman-s-32494b80/)
 

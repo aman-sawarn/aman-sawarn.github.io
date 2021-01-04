@@ -112,6 +112,16 @@ Stanford CoreNLP, NLTK, openNLP, Seaborn, Matplotlib
 
 English ,  Hindi
 
+## PUBLICATIONS
+
+* To be updated soon- Currently under review*. 2020.
+
+## OTHER ACADEMIC EXPERIENCE
+
+* Took ML sessions for IEEE-MAIT local chapter  
+
+--- ---
+
 <br>
 
 You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
@@ -124,34 +134,6 @@ You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/am
 
 
 
-
-
-<br>
-
----
-
-
-
-
-
-<br>
-
----
-
-## PUBLICATIONS
-
-* To be updated soon- Currently under review*. 2020.
-
-
-
----
-
-<br>
-
-## OTHER ACADEMIC EXPERIENCE
-
-* Took ML sessions for IEEE-MAIT local chapter  
-<br>
 
 <br>
 <br> -->

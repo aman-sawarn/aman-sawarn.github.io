@@ -89,6 +89,7 @@ August 2016 - June 2020
 [Credentials](https://www.coursera.org/account/accomplishments/verify/3SV2AB4U79F3) 
 * Instructor: [Carlos Guestrin](https://www.coursera.org/instructor/guestrin)
 
+<br>
 
 You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
 

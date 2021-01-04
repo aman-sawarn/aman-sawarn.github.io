@@ -39,7 +39,10 @@ You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/am
 
 <!-- ---
 
-
+---
+layout: default
+---
+<br>
 ## INDUSTRY EXPERIENCE
 
 

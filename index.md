@@ -35,10 +35,6 @@ You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/am
 
 <br>
 
-
-
-<!-- ---
-
 ---
 layout: default
 ---
@@ -82,6 +78,10 @@ June 2019 - August 2019
 
 
 <br>
+
+
+
+<!-- ---
 
 
 ## EDUCATION 

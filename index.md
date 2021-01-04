@@ -161,39 +161,6 @@ English ,  Hindi
 <br>
 <br> -->
 
-<br> 
-
-## News
-
-<table style="width:100%">
-  <tr>
-    <td width="15%">Fall 2020</td>
-    <td>TAing <a href="https://github.com/wilkens-teaching/info3350-f20">INFO 3350: Text Mining for History and Literature</a> with <a href="https://mattwilkens.com/">Matthew Wilkens</a></td>
-  </tr>
-  <tr>
-    <td width="15%">Jul 2020</td>
-    <td>Speaking on two panels at <a href="https://dh2020.adho.org/">DH 2020</a>: <i>Replication and Computational Literary Studies</i> and <i>Cultural Analytics and the Book Review: Models, Methods, and Corpora</i></td>
-  </tr>
-  <tr>
-    <td width="15%">Jun 2020</td>
-    <td>Interning at Microsoft Research Montreal with the <a href="https://www.microsoft.com/en-us/research/group/fate/">FATE</a> team</td>
-  </tr>
-  <tr>
-    <td width="15%">Jan 2020</td>
-    <td>Our <a href="https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf">paper</a> on imagined examples of painful experiences has been published by <i>Frontiers in Neuroscience</i></td>
-  </tr>
-  <tr>
-    <td>Nov 2019</td>
-    <td>Presenting <a href="https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf">Narrative Paths and Negotiations of Power in Birth Stories</a> at CSCW in Austin, Texas</td>
-  </tr>
-  <tr>
-    <td>Oct 2019</td>
-    <td>Attending NovelTM in Banff, Canada</td>
-  </tr>
-</table>
-
-
-<br>
 
 
 <br><br><br>

@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="20210123_165431.jpg">
 
-I'm a data scientist and researcher working in natural language processing, machine learning, statistics and analytics . I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on healthcare support or cultural objects like books or games. My research relies on Medical Report Generation using X-Ray Images and topic-focused datasets. 
+I'm a data scientist and researcher working in natural language processing, machine learning, statistics and analytics . I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on healthcare, recruitment, media and advertising or building communities. My research relies on Medical Report Generation using X-Ray Images and topic-focused datasets. 
 
 Previously, I have worked on various projects as self case study during my undergrad. My work on [predicting flairs/tags on Reddit website](https://github.com/aman-sawarn/Reddit-Flair-Detection) aims at predicting tags on a given Reddit link. 
 My past work on predicting movies genres aims at solving the problem as [multi-label multi-class problem](https://medium.com/towards-artificial-intelligence/keras-for-multi-label-text-classification-86d194311d0e). My work on a [Fashion Recommendation Engine](https://github.com/aman-sawarn/Amazon-Fashion-Discovery-Engine) where I have worked on Data Fetching from Amazon's website and then building models on top of it.  I have also worked on various neural architectures to predict [Donors who could fund projects for school](https://github.com/aman-sawarn/Donor-Choose-Automation) children. 
@@ -24,7 +24,6 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 <br>
 
-**----------------------------------------------------------------------------------------------------------------------------------**
 
 <br>
 ## INDUSTRY EXPERIENCE
@@ -39,7 +38,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 * Used BERT for feature extractions followed by various LSTM, CNN architectures for finetuning models
 * Implemented the NLP sections of a tensorflow learning pipeline for the core product.
 * Implemented the NLP sections of a tensorflow prediction pipeline for the core product.
-* Deployed CV Parser as In-House product and saved 0.01 $ per Job applies on shine.com.
+* Deployed CV Parser as In-House product and saved 0.01 $ per job apply for the recruiting firm, contributing twenty percent of total cost-cutting during pandemic.
 
 
 
@@ -154,7 +153,7 @@ English ,  Hindi
 
 <br>
 
-You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
+You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/Aman_Sawarn_s_Resume__Data_Scientist_.pdf).
 
 <br>
 

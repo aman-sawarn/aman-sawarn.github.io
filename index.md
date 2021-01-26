@@ -22,7 +22,7 @@ I'm currently a working as a Data Scientist at HT Media Ltd. Currently, I work i
 Natural language processing, unsupervised machine learning, digital humanities, healthcare.
 
 
-<br>
+
 
 
 <br>

@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/aman_res.pdf).
+You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/Aman_Sawarn_s_Resume__Data_Scientist_.pdf).
 
 <br><br>
 

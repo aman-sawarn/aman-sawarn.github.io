@@ -141,7 +141,7 @@ English ,  Hindi
 ## PUBLICATIONS
 ---
 
-* To be updated soon- Currently under review- 2020.
+* To be updated soon- Currently under review- 2021.
 
 
 ## OTHER ACADEMIC EXPERIENCE

@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/Aman_Sawarn_s_Resume__Data_Scientist_.pdf).
+You can download a PDF of my CV [here](https://github.com/aman-sawarn/aman-sawarn.github.io/blob/master/resources/Aman_Sawarn_Resume__Data_Scientist_%20june10.pdf).
 
 <br><br>
 
@@ -54,10 +54,10 @@ Gurugram, Harayana, India
 October 2020 - Till Date 
 * Worked on a SOTA CV Parser for shine.com
 * Created a custom named entity recognition and normalization system for extracting various details from resume text.
-* Used BERT for feature extractions followed by various LSTM, CNN architectures for finetuning models
+* Used BERT for feature extractions followed by various LSTM, CNN architectures for finetuning models.
 * Implemented the NLP sections of a tensorflow learning pipeline for the core product.
-* Implemented the NLP sections of a tensorflow prediction pipeline for the core product.
-* Deployed CV Parser as In-House product and saved 0.01 $ per Job applies on shine.com.
+* Saved 0.01 $ per job apply for the recruiting firm, three percent of total cost-cutting during pandemic.
+* Patent filed for the product by company, with me as one of the inventors.
 
 
 

@@ -38,7 +38,8 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 * Used BERT for feature extractions followed by various LSTM, CNN architectures for finetuning models
 * Implemented the NLP sections of a tensorflow learning pipeline for the core product.
 * Implemented the NLP sections of a tensorflow prediction pipeline for the core product.
-* Deployed CV Parser as In-House product and saved 0.01 $ per job apply for the recruiting firm, contributing twenty percent of total cost-cutting during pandemic.
+* Saved 0.01 $ per job apply for the recruiting firm,  three percent of total cost-cutting during pandemic}.
+* {Patent} filed for the product by company, with me as one of the inventors
 
 
 

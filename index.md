@@ -153,7 +153,7 @@ English ,  Hindi
 
 <br>
 
-You can download a PDF of my CV [here](http://aman-sawarn.github.io/resources/Aman_Sawarn_s_Resume__Data_Scientist_.pdf).
+You can download a PDF of my CV [here](https://github.com/aman-sawarn/aman-sawarn.github.io/blob/master/resources/Aman_Sawarn_Resume__Data_Scientist_%20june10.pdf).
 
 <br>
 

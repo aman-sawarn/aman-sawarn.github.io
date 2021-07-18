@@ -146,10 +146,12 @@ English ,  Hindi
 * To be updated soon- Currently under review- 2021.
 
 
-## OTHER ACADEMIC EXPERIENCE
+## Co-Curricular Events
 ---
 
-* Took ML sessions for IEEE-MAIT local chapter  
+* Debating, Extempore, Elocution
+* National Cadet Core (NCC)
+* Magazine/Newsletter Editor
 
 
 

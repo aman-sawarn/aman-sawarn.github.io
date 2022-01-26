@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-## About
+## About me
 
 <img class="profile-picture" src="my_pic.jpg">
 

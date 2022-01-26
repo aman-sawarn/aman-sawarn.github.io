@@ -4,9 +4,7 @@ layout: default
 
 <br>
 
-**The Goodreads “Classics”: A Computational Study of Readers, Amazon, and Crowdsourced Literary Criticism**  
-Melanie Walsh and Maria Antoniak  
-Post45 x Cultural Analytics (2020)  
+
 
 **Imagined examples of painful experiences provided by chronic low back pain patients and attributed a pain numerical rating score**  
 Robert Stewart Griffin, Maria Antoniak, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno  

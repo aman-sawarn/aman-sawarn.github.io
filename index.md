@@ -6,7 +6,7 @@ layout: default
 
 ## About me
 
-<img class="profile-picture" src="my_pic.jpg">
+<img class="profile-picture" src="DSCN9885.JPG">
 
 I'm a data scientist and researcher working in natural language processing, machine learning, statistics and analytics . I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on healthcare, recruitment, media and advertising or building communities. My research relies on Medical Report Generation using X-Ray Images and topic-focused datasets. 
 

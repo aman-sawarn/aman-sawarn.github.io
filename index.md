@@ -6,7 +6,7 @@ layout: default
 
 ## About me
 
-<img class="profile-picture" src="https://github.com/aman-sawarn/aman-sawarn.github.io/blob/master/DSCN9885.JPG">
+<img class="profile-picture" src="https://github.com/aman-sawarn/aman-sawarn.github.io/blob/master/profile-pic.png">
 
 I'm a data scientist and researcher working in natural language processing, machine learning, statistics and analytics . I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on healthcare, recruitment, media and advertising or building communities. My research relies on Medical Report Generation using X-Ray Images and topic-focused datasets. 
 

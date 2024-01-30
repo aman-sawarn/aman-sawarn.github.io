@@ -10,8 +10,11 @@ layout: default
 <img class="profile-picture" src="profile-pic-4.png">
 
 I'm a Data Scientist and ML Engineer working in Search and Recommendations team at Jio Platforms Ltd. I have worked in a wide range of recommedation systems for [Jio Cinema](https://www.jiocinema.com/), [JioTv](https://www.jiotv.com/) and JioTV+(Set up box application).
+
 I have been working on products with **5 mn+ DAU**, and served recommendations on various time scales ranging from a few hours to a week . My work starts right from the business problem, followed by defining business KPIs and then mapping it to ML problem. My workflow generally includes data fetching, data enrichment, data cleaning, preprocessing, modelling, evaluating results, deployment, retraining and maintenance. 
+
 I am comfortable designing ML systems, code review, defining features for products and collaborating and assigning work to various other stakeholders like DevOPS engineers, Data Engineers, Quality Analyst and Product Managers.
+
 In the past, I have solved business problems using Machine Learning, Deep Learning, Natural Language Processing(NLP) and Large Language Models. Solving impactful problems, which effect user experience on scale gives me work satisfaction.
 
 I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on Media, Advertisements, Healthcare, Recruitment or building communities. 

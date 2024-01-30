@@ -14,23 +14,6 @@ I have been working on products with **5 mn+ DAU**, and served recommendations o
 I am comfortable designing ML systems, code review, defining features for products and collaborating and assigning work to various other stakeholders like DevOPS engineers, Data Engineers, Quality Analyst and Product Managers.
 In the past, I have solved business problems using Machine Learning, Deep Learning, Natural Language Processing(NLP) and Large Language Models. Solving impactful problems, which effect user experience on scale gives me work satisfaction.
 
-### Tools I have worked on:
-
-Databases: SQL, Mongo, Cassandra, Redis
-
-Git 
-
-Machine Learning: Sklearn and custom written models
-
-Deep Learning: Tensorflow, Keras
-
-Cloud: GCP
-
-MLOps: MLFlow, Weights and Biases
-
-### Modeling
-Modeling: Machine Learning, Deep Learning, Natural language Processing(NLP), Large Langauge Models(LLMs) etc
-
 I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on Media, Advertisements, Healthcare, Recruitment or building communities. 
 Previously, I have worked on various projects as self case study during my undergrad. My work on [predicting flairs/tags on Reddit website](https://github.com/aman-sawarn/Reddit-Flair-Detection) aims at predicting tags on a given Reddit link. 
 My past work on predicting movies genres aims at solving the problem as [multi-label multi-class problem](https://medium.com/towards-artificial-intelligence/keras-for-multi-label-text-classification-86d194311d0e). My work on a [Fashion Recommendation Engine](https://github.com/aman-sawarn/Amazon-Fashion-Discovery-Engine) where I have worked on Data Fetching from Amazon's website and then building models on top of it.  I have also worked on various neural architectures to predict [Donors who could fund projects for school](https://github.com/aman-sawarn/Donor-Choose-Automation) children. 
@@ -39,10 +22,6 @@ My work on [Medical Report Generation using X-Ray Images](https://link.springer.
 
 
 In past, I worked as a Data Scientist at HT Media Ltd, where I worked for Shine.com team - India's second largest recruiting platform.
-
-
-Natural language processing, unsupervised machine learning, digital humanities, healthcare.
-
 
 
 
@@ -152,15 +131,35 @@ August 2016 - June 2020
 ---
 
 
+### Tools I have worked on:
+
+Databases: SQL, Mongo, Cassandra, Redis
+
+Git 
+
+
+
+
+
+### Modeling
+Modeling: Machine Learning, Deep Learning, Natural language Processing(NLP), Large Langauge Models(LLMs) etc
 
 
 ### Computer Languages
 
-Python (primary), C++ (some experience)
+Python (primary), C++ (secondary language)
 
 ### Python Stack
 
 spaCy, Gensim, scikit-learn, pandas, SciPy, NumPy, Tensorflow, Keras
+
+### MLOps
+MLFlow, Weights and Biases
+
+### Cloud
+
+GCP, Azure
+
 
 ### Other Toolkits
 
@@ -169,7 +168,6 @@ Stanford CoreNLP, NLTK, openNLP, Seaborn, Matplotlib
 ### Human Languages
 
 English ,  Hindi
-
 
 
 

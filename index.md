@@ -9,15 +9,36 @@ layout: default
 
 <img class="profile-picture" src="profile-pic-4.png">
 
-I'm a data scientist and researcher working in natural language processing, machine learning, statistics and analytics . I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on healthcare, recruitment, media and advertising or building communities. My research relies on Medical Report Generation using X-Ray Images and topic-focused datasets. 
+I'm a Data Scientist and ML Engineer working in Search and Recommendations team at Jio Platforms Ltd. I have worked in a wide range of recommedation systems for [Jio Cinema](https://www.jiocinema.com/), [JioTv](https://www.jiotv.com/) and JioTV+(Set up box application).
+I have been working on products with **5 mn+ DAU**, and served recommendations on various time scales ranging from a few hours to a week . My work starts right from the business problem, followed by defining business KPIs and then mapping it to ML problem. My workflow generally includes data fetching, data enrichment, data cleaning, preprocessing, modelling, evaluating results, deployment, retraining and maintenance. 
+I am comfortable designing ML systems, code review, defining features for products and collaborating and assigning work to various other stakeholders like DevOPS engineers, Data Engineers, Quality Analyst and Product Managers.
+In the past, I have solved business problems using Machine Learning, Deep Learning, Natural Language Processing(NLP) and Large Language Models. Solving impactful problems, which effect user experience on scale gives me work satisfaction.
 
+### Tools I have worked on:
+
+Databases: SQL, Mongo, Cassandra, Redis
+
+Git 
+
+Machine Learning: Sklearn and custom written models
+
+Deep Learning: Tensorflow, Keras
+
+Cloud: GCP
+
+MLOps: MLFlow, Weights and Biases
+
+### Modeling
+Modeling: Machine Learning, Deep Learning, Natural language Processing(NLP), Large Langauge Models(LLMs) etc
+
+I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on Media, Advertisements, Healthcare, Recruitment or building communities. 
 Previously, I have worked on various projects as self case study during my undergrad. My work on [predicting flairs/tags on Reddit website](https://github.com/aman-sawarn/Reddit-Flair-Detection) aims at predicting tags on a given Reddit link. 
 My past work on predicting movies genres aims at solving the problem as [multi-label multi-class problem](https://medium.com/towards-artificial-intelligence/keras-for-multi-label-text-classification-86d194311d0e). My work on a [Fashion Recommendation Engine](https://github.com/aman-sawarn/Amazon-Fashion-Discovery-Engine) where I have worked on Data Fetching from Amazon's website and then building models on top of it.  I have also worked on various neural architectures to predict [Donors who could fund projects for school](https://github.com/aman-sawarn/Donor-Choose-Automation) children. 
 
-My work on Medical Report Generation using X-Ray Images is yet to be published.
+My work on [Medical Report Generation using X-Ray Images](https://link.springer.com/chapter/10.1007/978-3-030-76167-7_9) has been published.
 
 
-I'm currently a working as a Data Scientist at HT Media Ltd. Currently, I work in Shine.com team which is India's second largest recruiting platform.  I have completed my B.Tech in Electrical and Electronics Engineering from Guru Gobind Singh Indraprastha University, New Delhi in June 2020. 
+In past, I worked as a Data Scientist at HT Media Ltd, where I worked for Shine.com team - India's second largest recruiting platform.
 
 
 Natural language processing, unsupervised machine learning, digital humanities, healthcare.
@@ -29,6 +50,19 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 <br>
 ## INDUSTRY EXPERIENCE
 ---
+
+
+### Jio Platforms Ltd. - JioTV and JIOTV+(also JioCinema in the past)
+#### Data Scientist  :  Nov 2021 - Till Date 
+##### Bengaluru, India  
+
+
+** Build and Maintained systems to recommend similar shows(go to any of the platforms mentioned above, search a show, watch it and then see the similar shows recommended- if you think its awesome, drop a heart. If you think, it could be improved- reach out with your feedback and suggestions) to users.
+** Trained Models to create embeddings for Show Genres, Category, actors and directors .
+* 
+* Used BERT, and other LLMs for feature extractions and integrated it with various existing recommendation systems.
+* Enhanced various existing products with new versions and _boosted CTRs by xx percentage_ .
+
 
 ### HT Media Ltd. - Shine.com
 #### Data Scientist  :  October 2020 - Till Date 
@@ -144,10 +178,15 @@ English ,  Hindi
 ## PUBLICATIONS
 ---
 
-* To be updated soon- Currently under review- 2021.
+* BeamAtt: Generating Medical Diagnosis from Chest X-Rays Using Sampling-Based Intelligence : [Link](https://link.springer.com/chapter/10.1007/978-3-030-76167-7_9)
+* Comparative Analysis of Bagging and Boosting Algorithms for Sentiment Analysis(_Final Year Project_): [Link](https://www.sciencedirect.com/science/article/pii/S1877050920315295)
 
+## Volunteer Work
 
-## Co-Curricular Events
+* ICML Conference(Top ML Conference) - July 2020
+* ICLR Conference(Top ML Conference) - May 2020
+
+## Co-Curricular Events 
 ---
 
 * Debating, Extempore, Elocution
@@ -158,7 +197,7 @@ English ,  Hindi
 
 <br>
 
-You can download a PDF of my CV [here](https://github.com/aman-sawarn/aman-sawarn.github.io/blob/master/resources/Aman_Sawarn_Resume__Data_Scientist_%20june10.pdf).
+You can download a PDF of my CV [here.](https://drive.google.com/file/d/1Vr2oi1T4s-ouFV1W4boLEaJLqfmIF5Zb/view?usp=sharing)
 
 <br>
 

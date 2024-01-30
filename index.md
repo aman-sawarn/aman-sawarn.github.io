@@ -39,9 +39,8 @@ In past, I worked as a Data Scientist at HT Media Ltd, where I worked for Shine.
 ##### Bengaluru, India  
 
 
-** Build and Maintained systems to recommend similar shows(go to any of the platforms mentioned above, search a show, watch it and then see the similar shows recommended- if you think its awesome, drop a heart. If you think, it could be improved- reach out with your feedback and suggestions) to users.
-** Trained Models to create embeddings for Show Genres, Category, actors and directors .
-* 
+* Build and Maintained systems to recommend similar shows(go to any of the platforms mentioned above, search a show, watch it and then see the similar shows recommended- if you think its awesome, drop a heart. If you think, it could be improved- reach out with your feedback and suggestions) to users.
+* Trained Models to create embeddings for Show Genres, Category, actors and directors .
 * Used BERT, and other LLMs for feature extractions and integrated it with various existing recommendation systems.
 * Enhanced various existing products with new versions and _boosted CTRs by xx percentage_ .
 
@@ -51,8 +50,8 @@ In past, I worked as a Data Scientist at HT Media Ltd, where I worked for Shine.
 ##### Gurugram, India  
 
 
-** Worked on a SOTA CV Parser for shine.com
-** Created a custom named entity recognition and normalization system for extracting various details from resume text.
+* Worked on a SOTA CV Parser for shine.com
+* Created a custom named entity recognition and normalization system for extracting various details from resume text.
 * Cleaned, explored and trained models on large datasets and built \textbf{SaaS product} for in-house and market use.
 * Used BERT for feature extractions followed by various LSTM, CNN architectures for finetuning models
 * Implemented the NLP sections of a tensorflow learning pipeline for the core product.

@@ -53,7 +53,7 @@ In past, I worked as a Data Scientist at HT Media Ltd, where I worked for Shine.
 * Worked on a SOTA CV Parser for shine.com
 * Created a custom named entity recognition and normalization system for extracting various details from resume text.
 * Cleaned, explored and trained models on large datasets and built \textbf{SaaS product} for in-house and market use.
-* Used BERT for feature extractions followed by various LSTM, CNN architectures for finetuning models
+* Used BERT for feature extractions followed by stacking various LSTM, CNN architectures for fine-tuning models
 * Implemented the NLP sections of a tensorflow learning pipeline for the core product.
 * Saved 0.01 $ per job apply for the recruiting firm,  three percent of total cost-cutting during pandemic}.
 * Patent filed for the product by company, with me as one of the inventors

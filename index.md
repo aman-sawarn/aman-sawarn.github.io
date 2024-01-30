@@ -46,7 +46,7 @@ In past, I worked as a Data Scientist at HT Media Ltd, where I worked for Shine.
 
 
 ### HT Media Ltd. - Shine.com
-#### Data Scientist  :  October 2020 - Till Date 
+#### Data Scientist  :  October 2020 - Nov 2021
 ##### Gurugram, India  
 
 

@@ -20,6 +20,9 @@ In the past, I have solved business problems using Machine Learning, Deep Learni
 I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on Media, Advertisements, Healthcare, Recruitment or building communities. 
 Previously, I have worked on various projects as self case study during my undergrad. 
 
+In Feb 2023, I gave a talk on designing and building Search and Recommendations systems together. Please find the link to code and lecture [slides here](https://github.com/aman-sawarn/Building-Search-and-Recommendations-Together/). 
+
+
 My work on [Medical Report Generation using X-Ray Images](https://link.springer.com/chapter/10.1007/978-3-030-76167-7_9) has been published.
 
 

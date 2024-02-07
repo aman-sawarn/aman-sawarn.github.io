@@ -155,16 +155,17 @@ Python (primary), C++ (secondary language)
 spaCy, Gensim, scikit-learn, pandas, SciPy, NumPy, Tensorflow, Keras
 
 ### MLOps
-MLFlow, Weights and Biases
+MLFlow, Weights and Biases, Docker, Kubernetes, Airflow
 
 ### Cloud
 
 GCP, Azure
 
 
+
 ### Other Toolkits
 
-Stanford CoreNLP, NLTK, openNLP, Seaborn, Matplotlib
+Stanford CoreNLP, NLTK, openNLP, Seaborn, Matplotlib, Agile Methods
 
 ### Human Languages
 

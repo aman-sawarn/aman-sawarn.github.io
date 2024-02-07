@@ -18,8 +18,7 @@ I am comfortable designing ML systems, code review, defining features for produc
 In the past, I have solved business problems using Machine Learning, Deep Learning, Natural Language Processing(NLP) and Large Language Models. Solving impactful problems, which effect user experience on scale gives me work satisfaction.
 
 I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on Media, Advertisements, Healthcare, Recruitment or building communities. 
-Previously, I have worked on various projects as self case study during my undergrad. My work on [predicting flairs/tags on Reddit website](https://github.com/aman-sawarn/Reddit-Flair-Detection) aims at predicting tags on a given Reddit link. 
-My past work on predicting movies genres aims at solving the problem as [multi-label multi-class problem](https://medium.com/towards-artificial-intelligence/keras-for-multi-label-text-classification-86d194311d0e). My work on a [Fashion Recommendation Engine](https://github.com/aman-sawarn/Amazon-Fashion-Discovery-Engine) where I have worked on Data Fetching from Amazon's website and then building models on top of it.  I have also worked on various neural architectures to predict [Donors who could fund projects for school](https://github.com/aman-sawarn/Donor-Choose-Automation) children. 
+Previously, I have worked on various projects as self case study during my undergrad. 
 
 My work on [Medical Report Generation using X-Ray Images](https://link.springer.com/chapter/10.1007/978-3-030-76167-7_9) has been published.
 

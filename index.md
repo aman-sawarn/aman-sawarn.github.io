@@ -18,8 +18,9 @@ I am comfortable designing ML systems, code review, defining features for produc
 In the past, I have solved business problems using Machine Learning, Deep Learning, Natural Language Processing(NLP) and Large Language Models. Solving impactful problems, which effect user experience on scale gives me work satisfaction.
 
 I'm interested in modeling how people communicate about their subjective experiences through text, especially when these communications occur in online communities centered on Media, Advertisements, Healthcare, Recruitment or building communities. 
-Previously, I have worked on various projects as self case study during my undergrad. 
+Previously, I have worked on various projects as self case study during my undergrad.
 
+_(In case you attended the talk, find the sildes and code below)_
 In Feb 2023, I gave a talk on designing and building Search and Recommendations systems together. Please find the link to code and lecture [slides here](https://github.com/aman-sawarn/Building-Search-and-Recommendations-Together/). 
 
 
